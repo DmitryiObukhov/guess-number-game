@@ -1,6 +1,7 @@
 # Number Guesser
 
-Welcome to the Number Guesser game! The goal is to guess a number between 0 and 9 and see if you can beat the computer.
+Welcome to the Number Guesser game! The goal is to guess a number between 0 and 9 and see if you can beat the computer. [Play the game here](https://dmitryiobukhov.github.io/guess-number-game/).
+
 
 ## How to Play
 
